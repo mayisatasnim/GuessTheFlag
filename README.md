@@ -1,6 +1,4 @@
 # GuessTheFlag
-This a single-player, multiple choice quiz game I created for my intro CS class. 
-
 How to play:
 
 Command line argument: There is one command line argument (numQuestions) which represents how many questions the game will have. This command line argument has to be positive and between 1 and 210 (the number of flags that will be available in the game).
